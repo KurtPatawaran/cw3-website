@@ -2,6 +2,7 @@
   <div id="app">
     <!-- Header -->
     <header>
+      <link rel="manifest" href="../public/manifest.json">
       <div id="headText">
         <h1>{{ siteName }}</h1>
       </div>
